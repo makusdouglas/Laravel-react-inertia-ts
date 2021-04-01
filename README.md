@@ -44,6 +44,14 @@ resource > js > pages
 resource > js > layout > Authorized > index.tsx
 ```
 
+## Docs
+
+- [Laravel Mix](https://laravel.com/docs/8.x/mix)
+- [React](https://pt-br.reactjs.org/docs/getting-started.html)
+- [Inertia.js](https://inertiajs.com/)
+- [Ant Design](https://ant.design/docs/react/introduce)
+- [Typescript](https://www.typescriptlang.org/)
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
