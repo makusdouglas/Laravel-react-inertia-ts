@@ -18,9 +18,9 @@ use Inertia\Inertia;
 //     return view('index');
 // });
 
-Route::get('/', function(){
-  return Inertia::render('Home');
-});
-Route::get('profile', function(){
-  return Inertia::render('Profile');
-});
+// Route::get('/', function(){
+//   return Inertia::render('Home');
+// });
+// Route::get('profile', function(){
+//   return Inertia::render('Profile');
+// });
